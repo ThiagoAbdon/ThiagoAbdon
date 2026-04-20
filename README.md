@@ -5,5 +5,7 @@
 
 
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+
+<i class="devicon-python-plain-wordmark"></i>
+          
           
