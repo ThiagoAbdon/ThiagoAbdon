@@ -1,12 +1,11 @@
-# 👋 Oi, eu sou o Thiago
+<h1 align="center">👋 Oi, eu sou o Thiago</h1>
 
-**`Desenvolvedor FullStack`**
+<p align="center">Futuro Desenvolvedor FullStack</p>
 
-Me chamo Thiago Abdon, tenho 16 anos.
-Cursando o ensno médio junto com curso de Análse e Desenvolvimento de Sistemas. 
+Me chamo Thiago Abdon, tenho 16 anos e estou cursando o ensino médio junto com curso de Análise e Desenvolvimento de Sistemas. 
 
-💻 Estudante de programação e criação de projetos  
-🎮 Criando jogos indie, sites e ideias criativas  
+💻 Sou estudante de programação focado em criar projetos, aprender na prática e evoluir constantemente. 
+🎮 Criando jogos indie, sites e ideias criativas
 🚀 Construindo meu caminho
 
 
@@ -59,7 +58,14 @@ Cursando o ensno médio junto com curso de Análse e Desenvolvimento de Sistemas
 <br/>
 <br/>
 
-### Estastísticas
+## 🚀 Projetos
+
+- 🎮 Jogo 2D (em desenvolvimento)
+- 🌐 Site pessoal (em breve)
+- 💡 Projetos de aprendizado focado em prática
+
+## Estastísticas
+
 
 <img
           align="left"
@@ -68,6 +74,12 @@ Cursando o ensno médio junto com curso de Análse e Desenvolvimento de Sistemas
           style="padding-right: 10px;"
           src="https://github-readme-stats.vercel.app/api?username=ThiagoAbdon&show_icons=true&theme=dark&nclude_all_commits+true&locale=pt-br"
         />
+
+    
+  ## 🌍 Onde me encontrar
+
+- TikTok: (https://www.tiktok.com/@thigasxp)
+- GitHub: (https://github.com/ThiagoAbdon)
 
 
 
