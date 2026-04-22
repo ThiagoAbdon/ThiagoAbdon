@@ -1,4 +1,4 @@
-## Oi, eu sou o Thiago
+# Oi, eu sou o Thiago
 
 ### Futuro Desenvolvedor FullStack
 
