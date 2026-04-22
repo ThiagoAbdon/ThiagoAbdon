@@ -1,6 +1,6 @@
 ### Oi, eu sou o Thiago
 
-##Futuro Desenvolvedor FullStack
+## Futuro Desenvolvedor FullStack
 
 Me chamo Thiago Abdon, tenho 16 anos e estou cursando o ensino médio junto com curso de Análise e Desenvolvimento de Sistemas. 
 
