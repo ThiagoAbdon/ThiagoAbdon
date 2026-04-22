@@ -4,9 +4,9 @@
 
 Me chamo Thiago Abdon, tenho 16 anos e estou cursando o ensino médio junto com curso de Análise e Desenvolvimento de Sistemas. 
 
-💻 Sou estudante de programação focado em criar projetos, aprender na prática e evoluir constantemente. 
-🎮 Criando jogos indie, sites e ideias criativas.
-🚀 Construindo meu caminho.
+- 💻 Sou estudante de programação focado em criar projetos, aprender na prática e evoluir constantemente. 
+- 🎮 Criando jogos indie, sites e ideias criativas.
+- 🚀 Construindo meu caminho.
 
 
 
