@@ -59,12 +59,6 @@ Me chamo Thiago Abdon, tenho 16 anos e estou cursando o ensino médio junto com 
 <br/>
 <br/>
 
-## 🚀 Projetos
-
- - 🎮 Jogo 2D (em desenvolvimento)
- - 🌐 Site pessoal (em breve)
- - 💡 Projetos de aprendizado focado em prática
-
 ## Estastísticas
 
 
