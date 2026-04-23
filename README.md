@@ -79,4 +79,4 @@ Me chamo Thiago Abdon, tenho 16 anos e estou cursando o ensino médio junto com 
 
 <img src="https://raw.githubusercontent.com/ThiagoAbdon/ThiagoAbdon/output/snake.svg" alt="Snake animation" />
 
-###
+##
