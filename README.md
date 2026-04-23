@@ -77,10 +77,6 @@ Me chamo Thiago Abdon, tenho 16 anos e estou cursando o ensino médio junto com 
 - GitHub: (https://github.com/ThiagoAbdon)
 
 
+<img src="https://raw.githubusercontent.com/ThiagoAbdon/ThiagoAbdon/output/snake.svg" alt="Snake animation" />
 
-<picture  align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabiuladorafael/ThiagoAbdon/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fabiuladorafael/ThiagoAbdon/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fabiuladorafael/ThiagoAbdon/output/github-contribution-grid-snake.svg">
-</picture>
-
+###
